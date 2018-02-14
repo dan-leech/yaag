@@ -78,7 +78,6 @@ const Template = `<!DOCTYPE html>
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">{{.Title}}</a>
-            <p class="navbar-text">Developed by Gophers at <a href="http://betacraft.co">Betacraft</a></p>
         </div>
             
         <!-- /.navbar-collapse -->

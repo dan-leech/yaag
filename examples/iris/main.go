@@ -5,8 +5,8 @@ import (
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/context"
 
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/irisyaag"
+	"github.com/dan-leech/yaag/yaag"
+	"github.com/dan-leech/yaag/irisyaag"
 )
 
 type myXML struct {
